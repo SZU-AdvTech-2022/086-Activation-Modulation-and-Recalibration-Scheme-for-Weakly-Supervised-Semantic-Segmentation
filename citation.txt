@@ -1,0 +1,9 @@
+@inproceedings{REPO-087,
+    author = "Qin, Jie and Wu, Jie and Xiao, Xuefeng and Li, Lujun and Wang, Xingang",
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    number = "2",
+    pages = "2117--2125",
+    title = "{Activation Modulation and Recalibration Scheme for Weakly Supervised Semantic Segmentation}",
+    volume = "36",
+    year = "2022"
+}
